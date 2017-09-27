@@ -10,8 +10,8 @@ mvn clean install
 Then add this dependency to pom:
 ```
 <dependency>
-			<groupId>net.thrch</groupId>
-      <artifactId>excelParser</artifactId>
-      <version>0.0.2</version>
+   <groupId>net.thrch</groupId>
+   <artifactId>excelParser</artifactId>
+   <version>0.0.2</version>
 </dependency>
 ```
